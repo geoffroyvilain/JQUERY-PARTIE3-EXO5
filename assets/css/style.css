@@ -1,9 +1,11 @@
-#carre {
-  height: 300px;
-  width: 300px;
-  background-color: blue;
-  text-align: center;
+.body {
+  margin: 0;
 }
-#control {
-  margin-top: 125px;
+#square {
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+}
+#direction {
+  margin-top: 0;
 }
